@@ -1,2 +1,4 @@
 a = 4
-print(a+a)
+b = 16
+c = 1.44
+print(a+b+c)
